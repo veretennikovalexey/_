@@ -13,3 +13,6 @@ Clear-Host
 
 Get-ChildItem
 
+# mkdir
+
+New-Item
