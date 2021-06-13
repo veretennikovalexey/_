@@ -1,18 +1,21 @@
-Вместо открытия папки выбираем
- "Клонировать репозиторий"
+# mkdir
 
-# Learning PowerShell
-
-https://github.com/PowerShell/PowerShell/tree/master/docs/learning-powershell
-
-# cls
-
-Clear-Host
+New-Item
 
 # ls
 
 Get-ChildItem
 
-# mkdir
+# cls
 
-New-Item
+Clear-Host
+
+# 
+
+Вместо открытия папки выбираем
+
+"Клонировать репозиторий"
+
+# Learning PowerShell
+
+https://github.com/PowerShell/PowerShell/tree/master/docs/learning-powershell
