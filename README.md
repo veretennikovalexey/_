@@ -1,3 +1,5 @@
+Вместо открытия папки выбираем клонировать репозиторий
+
 # Learning PowerShell
 
 https://github.com/PowerShell/PowerShell/tree/master/docs/learning-powershell
@@ -9,3 +11,4 @@ Clear-Host
 # ls
 
 Get-ChildItem
+
