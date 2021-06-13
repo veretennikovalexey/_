@@ -1,3 +1,3 @@
-# Mr. Mercedes
+# Learning PowerShell
 
-Stephen King
+https://github.com/PowerShell/PowerShell/tree/master/docs/learning-powershell
