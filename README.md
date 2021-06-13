@@ -1,3 +1,5 @@
+https://github.com/veretennikovalexey/_#learning-powershell
+
 # mkdir
 
 New-Item
