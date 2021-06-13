@@ -1,5 +1,3 @@
-# My GitHub Project
+# Mr. Mercedes
 
-This is my first GitHub project
-
-I published it directly from Visual Studio Code.
+Stephen King
