@@ -1,3 +1,7 @@
+# cd
+
+Set-Location
+
 # ri
 
 Remove-Item
