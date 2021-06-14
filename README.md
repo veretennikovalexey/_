@@ -1,3 +1,9 @@
+# Типы
+
+System.Int32
+
+Боковая панель PowerShell Commands
+
 # cd
 
 Set-Location
