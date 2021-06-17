@@ -1,8 +1,9 @@
-# Типы
+git config --global user.name veretennikovalexey
+git config --global user.email raidex@yandex.ru
 
-System.Int32
+# echo
 
-Боковая панель PowerShell Commands
+Write-Output
 
 # cd
 
@@ -11,8 +12,6 @@ Set-Location
 # ri
 
 Remove-Item
-
-https://github.com/veretennikovalexey/_#learning-powershell
 
 # mkdir
 
@@ -25,13 +24,3 @@ Get-ChildItem
 # cls
 
 Clear-Host
-
-# 
-
-Вместо открытия папки выбираем
-
-"Клонировать репозиторий"
-
-# Learning PowerShell
-
-https://github.com/PowerShell/PowerShell/tree/master/docs/learning-powershell
