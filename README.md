@@ -1,7 +1,7 @@
-# Политика запуска программ
+# Правило запуска программ
 ## ( ай яй яй, низя )
 
-Get-ExecutionPolicy
+Get-ExecutionPolicy -List
 
 # Restricted
 
