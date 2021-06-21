@@ -1,3 +1,5 @@
+cd 'C:\Program Files\PowerShell\7-preview\'
+
 # Правило запуска программ
 ## ( ай яй яй, низя )
 
