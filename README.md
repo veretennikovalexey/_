@@ -1,3 +1,7 @@
+# cim
+
+Common Information Model
+
 cd 'C:\Program Files\PowerShell\7-preview\'
 
 # Правило запуска программ
