@@ -1,3 +1,7 @@
+# wmi
+
+windows management instrumentation
+
 # cim
 
 Common Information Model
