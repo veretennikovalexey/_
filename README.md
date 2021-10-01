@@ -2,17 +2,6 @@
 
 Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
 
-
-# wmi
-
-windows management instrumentation
-
-# cim
-
-Common Information Model
-
-cd 'C:\Program Files\PowerShell\7-preview\'
-
 # Правило запуска программ
 ## ( ай яй яй, низя )
 
