@@ -1,3 +1,8 @@
+# Разрешить фабиусу выполнять скрипты на PowerShell
+
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+
+
 # wmi
 
 windows management instrumentation
