@@ -1,3 +1,7 @@
+# ni
+
+New-Item
+
 # Разрешить фабиусу выполнять скрипты на PowerShell
 
 Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
