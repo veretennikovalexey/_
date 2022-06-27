@@ -1,0 +1,13 @@
+local sql, ip, my, end_data
+ip := inputperiod( true )
+if empty( ip )
+  return
+endif
+my := stod( ip[1] )
+end_data := stod( ip[2] ) + 1
+while my <> end_data
+  my := my + 1
+end
+m->qwrtitle := ' ( ' + stod( ip[1] ) + ' - ' + stod( ip[2] ) + ' )'
+
+// пример DRILL_AND_FILL
